@@ -99,3 +99,5 @@ bash check-kernel-config arch/arm64/configs/potter_defconfig
 *Based on LineageOS kernel for MSM8953 — adapted for Halium 9.0 by [@Nutricalboii](https://github.com/Nutricalboii)*
 
 <!-- updated documentation check 4195 -->
+
+<!-- updated documentation check 3680 -->
